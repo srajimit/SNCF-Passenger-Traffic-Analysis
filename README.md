@@ -20,6 +20,7 @@ Which French regions and stations drove passenger traffic recovery post-COVID, a
 - Top 10 busiest stations ranking
 - Traffic by station segment donut chart
 - Interactive slicers for Region and Station Type filtering
+<img width="423" height="386" alt="image" src="https://github.com/user-attachments/assets/363f7e77-e6ca-4b63-ba27-92d158689c79" />
 
   ## Tools Used
 - Microsoft Excel
